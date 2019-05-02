@@ -13,5 +13,5 @@ cd ~/.m2 # navigate to folder
 
 Clone repository
 ```bash
-git clone git@gitlab.com:kinnarastudio/kecak-m2-repositories.git
+git clone git@github.com:kinnara-digital-studio/kecak-m2-repositories.git
 ```
