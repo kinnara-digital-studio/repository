@@ -5,13 +5,9 @@
 3.  Maven
 
 # Deployment
-Navigate to your M2 folder, if not exists, create one
+Navigate to your M2 folder, if not exists, create one and clone this repository
 ```bash
 mkdir ~/.m2 # create folder
 cd ~/.m2 # navigate to folder
-```
-
-Clone repository
-```bash
-git clone git@github.com:kinnara-digital-studio/kecak-m2-repositories.git
+git clone git@github.com:kinnara-digital-studio/kecak-m2-repositories.git # clone repository
 ```
