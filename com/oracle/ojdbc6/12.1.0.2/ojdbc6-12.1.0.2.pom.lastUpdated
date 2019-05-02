@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 01 10:31:41 WIB 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1450845637121
+https\://repo.maven.apache.org/maven2/.lastUpdated=1464751901666
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:12.1.0.2 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+https\://repo.maven.apache.org/maven2/.error=

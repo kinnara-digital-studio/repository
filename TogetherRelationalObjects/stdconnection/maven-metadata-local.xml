@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>TogetherRelationalObjects</groupId>
+  <artifactId>stdconnection</artifactId>
+  <versioning>
+    <release>7.1-1-professional</release>
+    <versions>
+      <version>7.1-1-professional</version>
+    </versions>
+    <lastUpdated>20130719100413</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,274 @@
+    
+
+
+<!DOCTYPE "html">
+<html>
+<head>                        
+    
+                
+                
+        
+        
+        
+                
+        
+                
+        
+        
+        
+    
+        
+                
+        
+        
+           
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="7;URL='http://ibnads.xl.co.id:80/interstitial-activity;jsessionid=0EAA4C89F29E6D1ADFE06CA2A6904D46?activityType=3&amp;orgUrl=http%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Foracle%2Fojdbc6%2F12.1.0.2%2Fojdbc6-12.1.0.2.pom&amp;adsTransactionId=D0164836324277485&amp;i=174653979'">                          
+    <style>
+        html, body {
+            padding: 0px;
+            margin: 0px;
+            height: 100%;
+            width: 100%;
+        }
+        body{
+            text-align: center;
+        }
+        #header, #content{
+            width: 100%;		
+        }
+        #header{								
+            height: 10%;
+            background-color: #054c7a;						
+        }
+        #header img{								
+            max-height: 100%;				
+            max-width: 100%;
+        }
+        #header > div{				
+            height: 100%;
+            float: left;
+        }		
+        #header > div > a{				
+            display: block;
+            height: inherit;
+        }						
+        #left{				
+            width: 13%;
+        }
+        #center{				
+            width: 70%;
+        }
+        #right{				
+            width: 17%;
+        }						
+        #content{
+            height: 90%;
+            background-color: #000000;
+            display: block;
+        }						
+        .content-img{				
+            max-width: 100%;
+            max-height: 100%;			
+            
+                height: 100%;
+            
+            
+        }
+        #content iframe{				
+            width: 100%;
+            height: 100%;	
+            border: 0px;
+        }
+    </style>
+    <link href="http://ibnads.xl.co.id:8004/THEME/INTERSTITIAL/main.css" rel="stylesheet" type="text/css"/>
+    <noscript><link href="http://ibnads.xl.co.id:80/ads-impression;jsessionid=0EAA4C89F29E6D1ADFE06CA2A6904D46?orgUrl=http%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Foracle%2Fojdbc6%2F12.1.0.2%2Fojdbc6-12.1.0.2.pom&amp;adsTransactionId=D0164836324277485&amp;r=&amp;i=174653979&j=0" rel="stylesheet" type="text/css"/></noscript>
+    <script>
+        var j = (typeof history.pushState==='undefined' || typeof history.pushState!=='function') ? 1 :2;
+        document.write('<link href="http://ibnads.xl.co.id:80/ads-impression;jsessionid=0EAA4C89F29E6D1ADFE06CA2A6904D46?orgUrl=http%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Foracle%2Fojdbc6%2F12.1.0.2%2Fojdbc6-12.1.0.2.pom&amp;adsTransactionId=D0164836324277485&amp;r=&amp;i=174653979&j='+j+'" rel="stylesheet" type="text/css"/>');
+    </script>
+    
+    <script>                    		
+        window.addEventListener("message", receiveMessage, false);
+
+        function receiveMessage(e){                             
+            try {                              
+                var origin = '';
+                for (property in e.origin) {
+                  origin += e.origin[property];
+                }                                        
+                if(!origin.indexOf("http://ibnads.xl.co.id:80") == 0)
+                    return;
+                eval('(' + decodeURI(e.data) + ')();');                    
+            } catch(e){alert(e);}			
+        }       
+    </script>
+</head>
+<body>
+    <div id="header">		
+        <div id="left">
+            <a href="http://www.xl.co.id">
+                <img src="http://ibnads.xl.co.id:8004/THEME/INTERSTITIAL/XL_logo_2.png" class="vAlign-middle">
+            </a>
+        </div>
+        <div id="center">
+            <img src="http://ibnads.xl.co.id:8004/THEME/INTERSTITIAL/free-notif.png" class="vAlign-middle">
+        </div>
+        <div id="right">
+            <a href="http://ibnads.xl.co.id:80/interstitial-activity;jsessionid=0EAA4C89F29E6D1ADFE06CA2A6904D46?activityType=2&amp;orgUrl=http%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Foracle%2Fojdbc6%2F12.1.0.2%2Fojdbc6-12.1.0.2.pom&amp;adsTransactionId=D0164836324277485&amp;i=174653979">
+                <img src="http://ibnads.xl.co.id:8004/THEME/INTERSTITIAL/skip-2.png" class="vAlign-middle">
+            </a>
+        </div>		
+    </div>                
+        
+    
+    <a id="content" href="http://ibnads.xl.co.id:80/ads-click?&adsTransactionId=D0164836324277485&targetUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tribe.mytribe%26utm_source%3Dmads%26utm_medium%3Dtopg%26utm_campaign%3Df1russia&orgUrl=http%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Foracle%2Fojdbc6%2F12.1.0.2%2Fojdbc6-12.1.0.2.pom&i=174653979">
+        <img src="http://ibnads.xl.co.id:8004/CAMPAIGN/0043602419/0043608635.jpg" alt="IBN" title="IBN" id="content-img" class="content-img"/>
+    </a>		        
+    
+    
+            
+    
+    
+        
+    
+            
+            
+
+    <script type="text/javascript">	
+        /*! A fix for the iOS orientationchange zoom bug. Script by @scottjehl, rebound by @wilto.MIT / GPLv2 License.*/
+        (function (a) {
+            function m() {
+                d.setAttribute("content", g), h = !0
+            }
+            function n() {
+                d.setAttribute("content", f), h = !1
+            }
+            function o(b) {
+                l = b.accelerationIncludingGravity, i = Math.abs(l.x), j = Math.abs(l.y), k = Math.abs(l.z), (!a.orientation || a.orientation === 180) && (i > 7 || (k > 6 && j < 8 || k < 8 && j > 6) && i > 5) ? h && n() : h || m()
+            }
+            var b = navigator.userAgent;
+            if (!(/iPhone|iPad|iPod/.test(navigator.platform) && /OS [1-5]_[0-9_]* like Mac OS X/i.test(b) && b.indexOf("AppleWebKit") > -1)) return;
+            var c = a.document;
+            if (!c.querySelector) return;
+            var d = c.querySelector("meta[name=viewport]"),
+                e = d && d.getAttribute("content"),
+                f = e + ",maximum-scale=1",
+                g = e + ",maximum-scale=10",
+                h = !0,
+                i, j, k, l;
+            if (!d) return;
+            a.addEventListener("orientationchange", m, !1), a.addEventListener("devicemotion", o, !1)
+        })(window);
+        
+        function getElementsByClassName(classname) {
+            var node = document;
+            if (node.getElementsByClassName) { // use native implementation if available
+                    return node.getElementsByClassName(classname);
+            } else {
+                return (function getElementsByClass(searchClass,node) {
+                    if ( node == null )
+                        node = document;
+                    var classElements = [],
+                        els = node.getElementsByTagName("*"),
+                        elsLen = els.length,
+                        pattern = new RegExp("(^|\\s)"+searchClass+"(\\s|$)"), i, j;
+
+                    for (i = 0, j = 0; i < elsLen; i++) {
+                        if ( pattern.test(els[i].className) ) {
+                            classElements[j] = els[i];
+                            j++;
+                        }
+                    }
+                    return classElements;
+                })(classname, node);
+            }
+        }
+
+        function vAlign(){
+            var elements = getElementsByClassName('vAlign-middle');
+            var n = elements.length;
+            for (var i = 0; i < n; i++) {
+                var e = elements[i];									
+                var ah = e.offsetHeight;
+                var ph = e.parentNode.offsetHeight;
+                var mh = (ph - ah) / 2;
+                e.style.marginTop = mh;
+            }
+        };		
+        
+        function headerResizing(){
+            var elements = getElementsByClassName('vAlign-middle');
+            var n = elements.length;
+            for (var i = 0; i < n; i++) {								
+                var e = elements[i];	
+                var pw = e.parentNode.offsetWidth;
+                var ph = e.parentNode.offsetHeight;					
+                e.style.maxWidth = pw;
+                e.style.maxHeight = ph;									
+            }
+        }
+
+        function contentResizing(){
+            var contentType="I";
+
+            if(contentType==="P" || contentType==="H"){
+                var content = document.getElementById("content");									
+                var child = content.firstElementChild;					
+
+                child.style.width = content.offsetWidth;
+                child.style.height = content.offsetHeight;
+
+            }else if(contentType==="I"){					
+                var width="320";
+                var height="480";
+                
+                if(width!=0 && height!=0){
+                    var content = document.getElementById("content");									
+                    var child = content.firstElementChild;					
+                    var mode = width > height ? "L" : "P"; // P : Portrait, L : Landscape
+
+                    //removing the default style 
+                    child.className = ''; // IE
+                    child.removeAttribute('class'); // Others
+
+                    child.style.width = "";
+                    child.style.height = "";							
+
+                    //console.debug(mode);
+
+                    if(mode==="P"){						
+                        var expectedWidth = width/height * content.offsetHeight;						
+                        if(expectedWidth>content.offsetWidth)
+                            child.style.width=content.offsetWidth;
+                        else
+                            child.style.height=content.offsetHeight;				
+                    }
+                    else{
+                        var expectedHeight = height/width * content.offsetWidth;						
+                        if(expectedHeight>content.offsetHeight)
+                            child.style.height=content.offsetHeight;
+                        else
+                            child.style.width=content.offsetWidth;										
+                    }
+                }                					
+            }									
+        }
+
+        function onResize(){
+            headerResizing();
+            vAlign();		
+            contentResizing();		
+        }
+
+        function onLoad(){				
+            onResize();			
+            window.onresize=onResize;			
+        }
+        window.onload = onLoad;
+    </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 02 16:40:53 WIB 2019
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1450845658163
+https\://repo.maven.apache.org/maven2/.lastUpdated=1556790053674
+https\://artifacts.alfresco.com/nexus/content/groups/public/.lastUpdated=1556244387551
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.microsoft\:sqljdbc\:pom\:4.0 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+https\://artifacts.alfresco.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.error=
