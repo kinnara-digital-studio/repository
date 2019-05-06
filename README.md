@@ -11,5 +11,5 @@ Navigate to your M2 folder, if not exists, create one and clone this repository
 ```bash
 mkdir ~/.m2 # if not exists create folder
 cd ~/.m2 # navigate to folder
-git clone git@github.com:kinnara-digital-studio/kecak-m2-repositories.git # clone dependency repository
+git clone git@github.com:kinnara-digital-studio/repository.git # clone dependency repository
 ```
