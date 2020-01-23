@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 15 23:53:24 WIB 2020
+axis2-kernel-1.7.9.pom>central=
+axis2-kernel-1.7.9.jar>central=
+axis2-kernel-1.7.9-sources.jar>central=
